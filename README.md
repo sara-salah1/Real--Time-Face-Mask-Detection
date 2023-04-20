@@ -1,1 +1,1 @@
-# Real--Time-Face-Mask-Detection
+# Real-Time-Face-Mask-Detection
